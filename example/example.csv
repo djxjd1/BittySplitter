@@ -1,0 +1,5 @@
+Date,Transaction ID,Type,Received amount,Received currency,Sent amount,Sent currency,Fee amount,Fee currency
+2022-01-05 10:45,,Reward awarded,5.0,ADA,,,,
+2022-01-04 12:06,oi11,Sent,,,2,ADA,0.1,ADA
+2022-01-03 01:27,94fc,Received,1000.0,ADA,,,,
+2021-12-30 01:27,94fc,Received,1000.0,ADA,,,,
